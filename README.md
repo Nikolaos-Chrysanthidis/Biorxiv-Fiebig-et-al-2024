@@ -1,6 +1,6 @@
 # Synergistic short-term synaptic plasticity mechanisms for working memory
 
-The full document will be available on bioRxiv in late April. The link will be provided here.
+The full document is available on bioRxiv at the following link: https://www.biorxiv.org/content/10.1101/2025.05.07.652583v1
 
 Fiebig, F., Chrysanthidis, N. , Lansner, A., Herman, P., (2025) Biorxiv
 
